@@ -3,4 +3,4 @@
 Here is some information about me:
 
 
-[Home](Index.md)
+[Home](index.md)
